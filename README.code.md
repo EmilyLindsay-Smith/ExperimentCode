@@ -1,4 +1,4 @@
-"#ExperimentCode Details" 
+# ExperimentCode Details
 
 This repository contains code developed for a psycholinguistics delayed priming experiment. As ever, code is a work in progress!
 
